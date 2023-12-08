@@ -1,0 +1,45 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "username": "Shubham Jayswal",
+        "avatar": "https://bsmedia.business-standard.com/_media/bs/img/article/2016-03/22/full/1458642051-1251.jpg",
+        "email": "shubham@gmail.com",
+        "password": "1234",
+        "bmi":[
+            {
+            "id": 1,
+            "bmi": 18.5,
+            "status": "Normal"
+          },
+          {
+            "id": 2,
+            "bmi": 19.5,
+            "status": "Normal"
+          }
+
+        ]
+      },
+      {
+        "id": 2,
+        "username": "Kabir Ahlawat",
+        "avatar": "https://bsmedia.business-standard.com/_media/bs/img/article/2016-03/22/full/1458642051-1251.jpg",
+        "email": "kabir@gmail.com",
+        "password":"1234",
+        "bmi":[
+            {
+            "id": 1,
+            "bmi": 18.5,
+            "status": "Normal"
+          },
+          {
+            "id": 2,
+            "bmi": 19.2,
+            "status": "Normal"
+          }
+
+        ]
+
+      }     
+    ]
+  }
